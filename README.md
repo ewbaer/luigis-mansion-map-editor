@@ -62,7 +62,3 @@ If you prefer the green play button, open **Debug → Debug and Launch Settings*
 1. Go to **Edit → Options**, set **Dolphin Path** to your `Dolphin.exe`, and click **Save**.
 2. Choose **Map → Export GCM** and save the new `.gcm` outside the extracted project folder.
 3. Choose **Tools → Test Disc Image in Dolphin**, select the GCM you just exported, and head to the room you edited.
-
-## License
-
-See [LICENSE](LICENSE).
