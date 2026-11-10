@@ -1,0 +1,13 @@
+[submodule "lib/bStream"]
+	path = lib/bStream
+	url = https://github.com/Astral-C/bStream
+[submodule "lib/glm"]
+	path = lib/glm
+	url = https://github.com/g-truc/glm
+[submodule "magic_enum"]
+	path = lib/magic_enum
+	url = https://github.com/Neargye/magic_enum
+[submodule "lib/libflipper"]
+	path = lib/libflipper
+	url = https://github.com/Astral-C/libflipper
+	branch = reduced-memory-usage

@@ -1,0 +1,12 @@
+test
+test/*
+*.arc
+Makefile
+*.a
+*_test
+.vscode
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+*.szs
+*.szp
